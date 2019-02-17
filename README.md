@@ -7,6 +7,7 @@ The following algorithms have been implemented
 - Selection Sort
 - Merge Sort
 - Heap Sort
+- Quick Sort
 
 You will also find solutions to the following common problems
 - Find all pairs in an array which can add up to a given sum
