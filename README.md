@@ -8,6 +8,7 @@ The following algorithms have been implemented
 - Merge Sort
 - Heap Sort
 - Quick Sort
+- Counting Sort
 
 You will also find solutions to the following common problems
 - Find all pairs in an array which can add up to a given sum
