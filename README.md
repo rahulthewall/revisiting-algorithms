@@ -21,6 +21,10 @@ The following data structures have been implemented
   - Insert / Delete / Search 
   - Reverse
 
+- Hash Table with the following operations
+  - Get / Set
+
+
 # Common Problems
 
 You will also find solutions to the following common problems
