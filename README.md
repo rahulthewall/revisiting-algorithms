@@ -24,6 +24,10 @@ The following data structures have been implemented
 - Hash Table with the following operations
   - Get / Set
 
+- Binary Search Tree with the following operations
+  - In order walk
+  - Minimum / Maximum
+  - Insert / Delete / Search
 
 # Common Problems
 
